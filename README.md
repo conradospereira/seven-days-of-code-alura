@@ -1,5 +1,3 @@
-# seven-days-of-code-alura
-In this project I will develop a project proposed by the teaching platform Alura where I will have to perform daily challenges for seven days.
 ![icon](https://user-images.githubusercontent.com/101484294/186415674-f005dc9c-fdf1-4139-a106-fe6e82f7561e.jpg)
 
 # Seven Days of Code Java - Alura
